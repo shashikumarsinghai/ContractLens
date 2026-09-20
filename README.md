@@ -2,6 +2,11 @@
 
 AI-powered contract intelligence agent that turns lengthy business contracts into actionable obligations, deadlines, key clauses, and source-backed answers.
 
+## Links
+
+- 🚀 **Live Demo:** https://contractlens-hjjb.onrender.com
+- 💻 **GitHub Repository:** https://github.com/shashikumarsinghai/ContractLens
+
 ## Overview
 
 Business contracts often contain important deadlines, payment terms, renewal conditions, termination clauses, and responsibilities that can be difficult to track manually.
